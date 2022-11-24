@@ -28,6 +28,7 @@ def fcfs():
         process.timeService()
         #falta pone la ecuacion  pero es igual que el time service
         #process.waitTime()
+        #waitTime = timeService() - timeNeeded
 
        
     
